@@ -1,0 +1,7 @@
+# The worlds you want to autosave
+world1: world
+world2: survival
+world3: creative
+world4: whitelist
+#The delay between each autosave. (Ticks =/= Seconds)
+delay: 72000
